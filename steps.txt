@@ -1,0 +1,8 @@
+1. generate test class
+2. write test for negative input in string
+3. write test for input containing number greater than 1000
+4. execute tests
+5. update static method to handle exception
+6. execute test
+7. continue to build method if tests fail for negative input, run test
+8. continue to build method if tests fail for input greater than 1000, run test
